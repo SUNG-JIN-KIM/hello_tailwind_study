@@ -12,7 +12,7 @@ const DateCard = ({ date, todos, isSat, isHoliday }) => {
         {todos.map((todo, index) => (
            <p
             key={index}
-            className={`${isSat || isHoliday ? "text-red-500" : "text-black"}`} // 텍스트 빨간색
+            className={`${isSat || isHoliday ? "text-red-500" : "text-black"}`}
           >{todo}</p>
         ))}
       </div>
