@@ -1,187 +1,189 @@
 [
   {
     "date": 1,
-    "todos": [],
+    "todos": [
+      "백엔드 수업"
+    ],
     "isSat": false,
     "isHoliday": false
   },
   {
     "date": 2,
-    "todos": [],
+    "todos": ["주말"],
     "isSat": true,
     "isHoliday": false
   },
   {
     "date": 3,
-    "todos": [],
+    "todos": ["주말"],
     "isSat": false,
     "isHoliday": true
   },
   {
     "date": 4,
-    "todos": [],
+    "todos": ["백엔드 수업"],
     "isSat": false,
     "isHoliday": false
   },
   {
     "date": 5,
-    "todos": [],
+    "todos": ["백엔드 수업"],
     "isSat": false,
     "isHoliday": false
   },
   {
     "date": 6,
-    "todos": [],
+    "todos": ["백엔드 수업"],
     "isSat": false,
     "isHoliday": false
   },
   {
     "date": 7,
-    "todos": [],
+    "todos": ["백엔드 수업"],
     "isSat": false,
     "isHoliday": false
   },
   {
     "date": 8,
-    "todos": [],
+    "todos": ["백엔드 수업"],
     "isSat": false,
     "isHoliday": false
   },
   {
     "date": 9,
-    "todos": [],
+    "todos": ["주말"],
     "isSat": true,
     "isHoliday": false
   },
   {
     "date": 10,
-    "todos": [],
+    "todos": ["주말"],
     "isSat": false,
     "isHoliday": true
   },
   {
     "date": 11,
-    "todos": [],
+    "todos": ["백엔드 수업"],
     "isSat": false,
     "isHoliday": false
   },
   {
     "date": 12,
-    "todos": [],
+    "todos": ["백엔드 수업"],
     "isSat": false,
     "isHoliday": false
   },
   {
     "date": 13,
-    "todos": [],
+    "todos": ["백엔드 수업"],
     "isSat": false,
     "isHoliday": false
   },
   {
     "date": 14,
-    "todos": [],
+    "todos": ["백엔드 수업"],
     "isSat": false,
     "isHoliday": false
   },
   {
     "date": 15,
-    "todos": [],
+    "todos": ["🇰🇷 광복절", "🧹 청소하기"],
     "isSat": false,
     "isHoliday": true
   },
   {
     "date": 16,
-    "todos": [],
+    "todos": ["주말"],
     "isSat": true,
     "isHoliday": false
   },
   {
     "date": 17,
-    "todos": [],
+    "todos": ["주말"],
     "isSat": false,
     "isHoliday": true
   },
   {
     "date": 18,
-    "todos": [],
+    "todos": ["백엔드 수업"],
     "isSat": false,
     "isHoliday": false
   },
   {
     "date": 19,
-    "todos": [],
+    "todos": ["백엔드 수업"],
     "isSat": false,
     "isHoliday": false
   },
   {
     "date": 20,
-    "todos": [],
+    "todos": ["백엔드 수업"],
     "isSat": false,
     "isHoliday": false
   },
   {
     "date": 21,
-    "todos": [],
+    "todos": ["백엔드 수업"],
     "isSat": false,
     "isHoliday": false
   },
   {
     "date": 22,
-    "todos": [],
+    "todos": ["백엔드 수업"],
     "isSat": false,
     "isHoliday": false
   },
   {
     "date": 23,
-    "todos": [],
+    "todos": ["주말"],
     "isSat": true,
     "isHoliday": false
   },
   {
     "date": 24,
-    "todos": [],
+    "todos": ["주말"],
     "isSat": false,
     "isHoliday": true
   },
   {
     "date": 25,
-    "todos": [],
+    "todos": ["백엔드 수업"],
     "isSat": false,
     "isHoliday": false
   },
   {
     "date": 26,
-    "todos": [],
+    "todos": ["백엔드 수업"],
     "isSat": false,
     "isHoliday": false
   },
   {
     "date": 27,
-    "todos": [],
+    "todos": ["백엔드 수업"],
     "isSat": false,
     "isHoliday": false
   },
   {
     "date": 28,
-    "todos": [],
+    "todos": ["백엔드 수업"],
     "isSat": false,
     "isHoliday": false
   },
   {
     "date": 29,
-    "todos": [],
+    "todos": ["백엔드 수업"],
     "isSat": false,
     "isHoliday": false
   },
   {
     "date": 30,
-    "todos": [],
+    "todos": ["주말"],
     "isSat": true,
     "isHoliday": false
   },
   {
     "date": 31,
-    "todos": [],
+    "todos": ["주말"],
     "isSat": false,
     "isHoliday": true
   }
